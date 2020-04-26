@@ -13,7 +13,7 @@
     
     遇到的问题描述：
     在链上链下的数据传输中出现了问题，链下的是java语言的项目，链上是solidity语言的项目，我们都
-    是在web端进行操作的，java用的是tomcat启动服务，     truffle框架下的solidity使用的lite-server
+    是在web端进行操作的，java用的是tomcat启动服务，truffle框架下的solidity使用的lite-server
      启动服务，我找几种方法都传不过去，后来就用了一种很不安全的方法传数据，就像下图：
    ![image](https://github.com/liujinjing123/swapNew/blob/master/imagess/3.png);
    
